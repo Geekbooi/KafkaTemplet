@@ -1,0 +1,16 @@
+bankapp:
+  app:
+    name: Lab12
+    version: 1
+  server:
+    name: training_db
+    url: http://training_db
+  user:
+    firstname: Yoseph
+    lastname: Masresha
+    username: yoseph
+    password: 1234
+    countries:
+      - Ethiopia
+    eamil: yosephm.masresha@miu.edu
+
